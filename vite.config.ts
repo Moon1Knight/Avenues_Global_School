@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: "/Avenue",
+  base: "/Avenue_Global_School",
 })
